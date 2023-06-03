@@ -14,6 +14,8 @@
 <body>
     <h1>Page de connexion</h1>
 
+    <a href="../index.php">Page d'accueil</a>
+
     <form action="../index.php">
         <div>
             <label for="pseudo">Pseudo</label>

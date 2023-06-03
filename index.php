@@ -22,5 +22,7 @@
     <a href="page/Connexion.php">Connexion</a>
     <a href="page/inscription.php">Inscription</a>
 
+    <a href="page/Utilisateur.php">Utilisateurs</a>
+
 </body>
 </html>
