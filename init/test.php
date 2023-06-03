@@ -31,3 +31,4 @@ $current_dir = getcwd();
 echo str_replace("\\", "/", $current_dir); // Utilisateurs de Windows, pensez à changer vos antislashes
 
 
+$_COOKIE["name"] = "test de cookie" ;
